@@ -39,6 +39,7 @@ public class MenuBarController {
             HelloApplication.getMainStage().show();
         } catch (IOException e) {
             throw new RuntimeException(e);
+
         }
     }
 
